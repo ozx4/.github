@@ -15,4 +15,4 @@ GitHub shows `profile/README.md` on the organization's page to anyone who is not
 
 ## Where the images come from
 
-The banners are copies of `drycraf-primary-dark.png` and `drycraf-primary-light.png` from the brand folder of drycraf's private hub repository. The hub is the source. When a logo changes there, copy it here again.
+The banner is a copy of `logos/07-hero/drycraf-hero-banner-1500x500-3000x1000.png` from the brand folder of drycraf's private hub repository. The hub is the source. When a logo changes there, copy it here again.
